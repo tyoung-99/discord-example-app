@@ -1,5 +1,6 @@
 {
   "name": "rock-paper-scissors",
   "main": "app.js",
+  "compatibility_flags": ["nodejs_compat"],
   "compatibility_date": "2025-11-03"
 }
